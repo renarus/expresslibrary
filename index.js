@@ -3,14 +3,14 @@ const app = express();
 const port = 8080; // default port to listen
 let users=[
     {
-        name:"Narmin",
-        surname:"Mammadova",
+        name:"Rena",
+        surname:"Rustemova",
         age:20
     },
     {
-        name:'Aysel',
-        surname:'Memmedova',
-        age:25
+        name:'Rehim',
+        surname:'Rustemov',
+        age:22
     }
 ]
 // define a route handler for the default home page
